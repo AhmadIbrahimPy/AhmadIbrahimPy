@@ -81,15 +81,15 @@
 - **FlowTechtics** (2020–Present) — Backend Dev & Server Admin  
   Leading multiple integrated systems for Krafttopia and related products
 
-- **Ship Egypt** (1 year) — Backend Dev & Team Lead  
-  Built logistics and rate engines, led a team of 4 developers/designers
-
 - **Ezhalha** (6 months) — Backend Developer  
   Focused on service booking flow and admin systems
 
 - **Belwasta** (6 months) — Backend Dev & Team Lead  
   Managed a team delivering Flutter, UI, and web projects
 
+- **Ship Egypt** (1 year) — Backend Dev & Team Lead  
+  Built logistics and rate engines, led a team of 4 developers/designers
+  
 - **IQAdv** (1 year) — Backend Developer  
   Developed service booking platform (e.g., salons and restaurants)
 
